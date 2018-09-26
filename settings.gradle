@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':simple_annotations', ':simple_compiler', ':simple_core', ':simple_ec'
