@@ -2,7 +2,9 @@ package com.simple.shopping.android;
 
 import android.app.Application;
 
+import com.joanzapata.iconify.fonts.FontAwesomeModule;
 import com.simple_core.app.Simple;
+import com.simple_ec.icon.FontEcModule;
 
 /**
  * @fileName:
@@ -16,6 +18,8 @@ public class SimpleApp extends Application {
     public void onCreate() {
         super.onCreate();
         Simple.init(this)
+                .withIcon(new FontAwesomeModule())
+                .withIcon(new FontEcModule())
                 .withApiHost("http://127.0.0.1/")
                 .configurate();
     }

@@ -2,7 +2,7 @@ package com.simple_core.app;
 
 import android.content.Context;
 
-import java.util.WeakHashMap;
+import java.util.HashMap;
 
 /**
  * @fileName:
@@ -19,7 +19,7 @@ public final class Simple {
     }
 
 
-    private static WeakHashMap<String, Object> getSimpleConfigs() {
+    private static HashMap<String, Object> getSimpleConfigs() {
         return Configurator.getInstance().getSimpleConfigs();
     }
 }
