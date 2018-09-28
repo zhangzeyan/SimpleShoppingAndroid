@@ -1,4 +1,4 @@
-package com.simple_core.app;
+package com.simple.core;
 
 import com.joanzapata.iconify.IconFontDescriptor;
 import com.joanzapata.iconify.Iconify;

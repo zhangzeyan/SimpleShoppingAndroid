@@ -1,4 +1,4 @@
-package com.simple_ec;
+package com.simple.core;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.simple_ec.test", appContext.getPackageName());
+        assertEquals("com.simple_core.test", appContext.getPackageName());
     }
 }

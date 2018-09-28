@@ -1,4 +1,4 @@
-package com.simple_ec.icon;
+package com.simple.ec.icon;
 
 import com.joanzapata.iconify.Icon;
 

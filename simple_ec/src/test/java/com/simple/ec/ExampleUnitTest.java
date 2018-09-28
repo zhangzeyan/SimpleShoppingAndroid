@@ -1,4 +1,4 @@
-package com.simple_ec;
+package com.simple.ec;
 
 import org.junit.Test;
 

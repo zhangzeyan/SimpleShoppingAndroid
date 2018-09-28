@@ -1,4 +1,4 @@
-package com.simple_core;
+package com.simple.core;
 
 import org.junit.Test;
 

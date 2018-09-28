@@ -3,8 +3,8 @@ package com.simple.shopping.android;
 import android.app.Application;
 
 import com.joanzapata.iconify.fonts.FontAwesomeModule;
-import com.simple_core.app.Simple;
-import com.simple_ec.icon.FontEcModule;
+import com.simple.core.Simple;
+import com.simple.ec.icon.FontEcModule;
 
 /**
  * @fileName:

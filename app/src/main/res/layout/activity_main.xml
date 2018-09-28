@@ -9,7 +9,7 @@
     <com.joanzapata.iconify.widget.IconTextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="{fa-baseball}"
+        android:text="{fa-latte}"
         tools:ignore="HardcodedText"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

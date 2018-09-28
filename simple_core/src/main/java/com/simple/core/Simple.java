@@ -1,4 +1,4 @@
-package com.simple_core.app;
+package com.simple.core;
 
 import android.content.Context;
 
